@@ -63,3 +63,12 @@ a {
   font-weight: 800;
   text-decoration: none;
 }
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.right {
+  cursor: pointer;
+}
